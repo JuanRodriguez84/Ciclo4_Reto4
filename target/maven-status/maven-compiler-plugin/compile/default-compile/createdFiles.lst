@@ -1,7 +1,16 @@
 as\com\ciclo4\reto4\model\User.class
+as\com\ciclo4\reto4\repository\OrderRepository.class
+as\com\ciclo4\reto4\web\OrderController.class
+as\com\ciclo4\reto4\repository\AccessoryRepository.class
+as\com\ciclo4\reto4\service\AccesoryService.class
+as\com\ciclo4\reto4\web\UserController.class
 as\com\ciclo4\reto4\model\Order.class
+as\com\ciclo4\reto4\web\AccessoryController.class
 as\com\ciclo4\reto4\model\Accessory.class
 as\com\ciclo4\reto4\service\OrderService.class
 as\com\ciclo4\reto4\service\UserService.class
 as\com\ciclo4\reto4\repository\UserRepository.class
+as\com\ciclo4\reto4\repository\crud\OrderCrudRepository.class
+as\com\ciclo4\reto4\Application.class
+as\com\ciclo4\reto4\repository\crud\AccessoryCrudRepository.class
 as\com\ciclo4\reto4\repository\crud\UserCrudRepository.class
